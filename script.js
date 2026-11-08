@@ -38,7 +38,7 @@ const cardapio = {
     },
     {
       nome: "Torta doce de chocolate",
-      imagem: "imagens/torta-chocolate.png",
+      imagem: "imagens/torta-chocolate.jpeg",
       descricao: "Nossa torta doce favorita! Feita com cacau e raspas de chocolate no topo, com a cremosidade do creme de leite e doçura do leite condensado.",
       preco: 20.00,
       destaque: "Nossa favorita"
