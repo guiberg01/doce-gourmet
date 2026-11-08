@@ -5,5 +5,5 @@
 - tradicional.jpeg
 - ninho.jpeg
 - torta-limao.jpeg
-- torta-chocolate.png
+- torta-chocolate.jpeg
 - brigadeiro-gourmet.jpg
